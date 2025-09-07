@@ -18,5 +18,5 @@ While Apache gives the user freedom to design, modify and distribute freely, it 
 ### Summary of Issue:
 
 ### Impact from Issue
-##<ins>Justification:</ins>
+## <ins>Justification:</ins>
 The Apache license is a strong choice for an OSS
