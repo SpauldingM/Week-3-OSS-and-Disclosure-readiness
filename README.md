@@ -26,9 +26,10 @@ While Apache gives the user freedom to design, modify and distribute freely, it 
 ## <ins>Justification:</ins>
 The Apache license is a strong choice for an OSS as it grants the user in what could be described as freedom with protection. The license is said to allow the user the ability to be able to freely use, modify and distribute the code or the program that uses it's licensing freely. The only downside to it would be the need to credit the original source, but that is rather minor compared to the ability of what could be compared to "Freedom".
 
-## Evidence:
-### [Brief PDF](Asynchronous Case.pdf)
-### [Weekly Reflection PDF] (Weekly Reflection Week 3.pdf)
+## Evidence
+
+- [Brief PDF](https://github.com/SpauldingM/Week-3-OSS-and-Disclosure-readiness/blob/main/Asynchronous%20Case.pdf)
+- [Weekly Reflection PDF](https://github.com/SpauldingM/Week-3-OSS-and-Disclosure-readiness/blob/main/Weekly%20Reflection%20Week%203.pdf)
 
 ## Reflection:
 Overall, it was great getting to learn about the most popular versions of licensing and what all you can do with them. I will be looking forward to learning more and potentially using one of these licenses, preferably Apache, if and when I go into the OSS. I also look forward into improving vulnerability report forms or professional forms in general.
